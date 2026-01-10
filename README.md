@@ -50,6 +50,7 @@ I'm a passionate developer with a keen interest in **web development**, **mobile
 - **[Portfolio Website](https://github.com/vidushitripa4thi/PRODIGY_WD_04)** - Personal portfolio showcasing projects
 
 ### 🎮 Game Development
+- **[Airstrike](https://github.com/vidushitripa4thi/java-gui-game.java)** - Java Swing vertical scrolling shooter game with progressive difficulty
 - **[2D Game Dev](https://github.com/vidushitripa4thi/2d-game-dev)** - C++ based 2D game with graphics
 
 ### 📱 Mobile Development
