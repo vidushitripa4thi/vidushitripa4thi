@@ -1,49 +1,116 @@
-# 👋 Hi, I'm Vidushi Tripathi
+# Hey, I'm Vidushi 👋
 
-**Computer Science Student | Full-Stack Web Developer | Greater Noida**
-
-I build web apps, data tools, and games while learning modern tech stacks. Currently focused on full-stack development with HTML, CSS, JavaScript, Node.js, Python, and databases.
-
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF6B35?style=for-the-badge&logo=streamlit&logoColor=white)
-
-## ✨ Featured Projects
-
-### 🍽️ [Flavor Fusion](https://vidushitripa4thi.github.io/flavour_fusion_dis/)
-Modern restaurant landing page with smooth scrolling, responsive design, and interactive menu showcase. **HTML | CSS | JavaScript** [cite:111]
-
-### 🎬 [Movie Recommendation System](https://github.com/vidushitripa4thi/movie-recommendation-system)
-Interactive Streamlit dashboard with hybrid, content-based, and collaborative movie recommendations. **Python | Streamlit | Pandas | Altair**
-
-### 💰 [Expense Tracker](https://github.com/vidushitripa4thi/expense-tracker)
-Full-stack personal finance app with SQLite database, category budgets, and dashboard analytics. **HTML | JS | Node.js | SQLite**
-
-### 🎮 Java GUI Game
-Desktop game built with Java Swing for interactive gameplay and UI development. **Java | Swing**
-
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidushitripa4thi&layout=compact&theme=radical)
-
-## 🌱 Currently Learning
-
-- Full-stack web development (PHP, MySQL, Node.js APIs)
-- Machine learning applications
-- Database design and optimization
-
-## 📫 Contact
-
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/vidushitripa4thi]
-- 🏢 Location: Greater Noida, Uttar Pradesh
+💻 **CSE (Data Science) Student**  
+🤖 Building with **AI, ML & Software Engineering**  
+🧠 Exploring **AI Agents, Computer Vision & Intelligent Automation**  
+🚀 Interested in **Open Source + Applied AI**
 
 ---
 
-⭐ **Star my repos and follow for more projects!**
+## 🧠 What I Build
+
+I like turning ideas into actual working products — especially projects that combine **AI with real-world interaction**.
+
+`AI Agents` `Computer Vision` `Generative AI` `Machine Learning` `Browser Automation` `Full-Stack Development`
+
+---
+
+## 🚀 Featured Projects
+
+### 🛰️ SatQuery AI
+
+**An Interactive Vision-Language Assistant for Multimodal Remote Sensing Image Analysis**
+
+A multimodal AI application that allows users to interact with **optical and SAR satellite imagery using natural-language queries**.
+
+**Tech:**  
+`React` `TypeScript` `FastAPI` `LangGraph` `Python` `Vision-Language Models`
+
+---
+
+### 🤖 Assignment Copilot
+
+An AI-powered browser extension for automating educational workflows.
+
+Designed to understand webpages, read instructions and chapters, navigate through content, interact with forms, answer questions and eventually submit assignments — while keeping the user in control with pause/stop automation.
+
+**Tech:**  
+`TypeScript` `Chrome Extensions` `DOM Automation` `AI Agents`
+
+---
+
+### 🎬 Movie Match Lab
+
+A movie recommendation system combining:
+
+- Popularity-based recommendations
+- Content-based filtering
+- Collaborative filtering
+- Hybrid recommendations
+
+**Tech:**  
+`Python` `Streamlit` `MovieLens` `TMDB`
+
+---
+
+### 💰 Expense Tracker
+
+A simple application for tracking and managing personal expenses.
+
+**Tech:**  
+`Java` `GUI Development`
+
+---
+
+### 📅 Calendar Web App
+
+A web-based calendar and scheduling application.
+
+**Tech:**  
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`Java` `Python` `C++` `JavaScript` `TypeScript`
+
+### AI / ML
+`Machine Learning` `Deep Learning` `Computer Vision` `NLP` `Generative AI`
+
+### Development
+`React` `Vite` `FastAPI` `Streamlit` `Node.js`
+
+### Tools
+`Git` `GitHub` `VS Code` `Docker`
+
+---
+
+## 🔬 Currently Exploring
+
+- 🤖 AI Agents & Autonomous Browser Workflows
+- 👁️ Computer Vision
+- 🧠 Explainable AI
+- 🛰️ Multimodal Remote Sensing
+- ⚡ Efficient AI & LLMs
+- 🌐 Open Source
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## 🌐 Connect
+
+[LinkedIn](YOUR_LINKEDIN) • [GitHub](https://github.com/YOUR_USERNAME)
+
+---
+
+> **build → break → debug → repeat**
